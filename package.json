@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/otavioaraujo08/typescript-essentials/issues"
   },
-  "homepage": "https://github.com/otavioaraujo08/typescript-essentials#readme"
+  "homepage": "https://github.com/otavioaraujo08/typescript-essentials#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
